@@ -1,0 +1,7 @@
+[package]
+name = "pingpong"
+version = "0.1.0"
+authors = ["Koji Ota <afterjnih@gmail.com>"]
+
+[dependencies]
+mio = "0.4.1"
